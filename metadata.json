@@ -1,0 +1,6 @@
+{
+  "name": "VIBE MART - Decision-Intelligence Marketplace",
+  "description": "Value-Intelligent Budget & Eco Mart: Shop smart, spend wise, and live better with real-time budget guarding, trade-off comparisons, counterfactual savings, and regret analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
